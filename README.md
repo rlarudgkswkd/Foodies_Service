@@ -26,9 +26,6 @@
 
 ### 개발시 겪은 어려움
 
-<br>
-<br>
-
 #### 1. Spring.io 세팅시
 * 최초 import existing maven project로 받은 후에
         pom.xml에 java 버전을 확인하고 run as -> maven install과 
